@@ -1,7 +1,7 @@
 import schedule, time
 from dotenv import load_dotenv
 from telegram import send_telegram, handle_commands
-from binance import check_and_trade_all_symbols
+from mexc import check_and_trade_all_symbols
 import threading
 
 load_dotenv()
