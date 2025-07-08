@@ -1,5 +1,5 @@
 {
-  "symbols": ["BTCUSDT", "ETHUSDT"],
+  "symbols": ["BTC_USDT", "ETH_USDT"],
   "risk_per_trade": 0.02,
   "leverage": 10,
   "timeframe": "1m",
